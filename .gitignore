@@ -1,2 +1,3 @@
 .env
 secrets.conf
+/printer_data/config/klipper-macros
